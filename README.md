@@ -11,5 +11,5 @@ Building a CRUD App using Node, Express, Mongodb and Mongoose.
 1. NodeJS<br>
 2. Express (<code>npm install express</code>)<br>
 3. MongoDB<br>
-4. Mongoose<br>
+4. Mongoose (<code>npm install mongoose</code>)<br>
 5. Nodemon (<code>npm install nodemon</code>)(<code>Dev Dependencies</code>) 
